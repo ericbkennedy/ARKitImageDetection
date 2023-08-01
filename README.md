@@ -2,6 +2,10 @@
 
 React to known 2D images in the user's environment, and use their positions to place AR content.
 
+Sample updated with images of artwork and photos on canvas to verify detection of physical items in addition to screen images. 
+
+Wall art image detection works even on the Whitehaven Beach, Australia image which has uniform color regions and low texture (due to the swirling sand).
+
 ## Overview
 
 Many AR experiences can be enhanced by using known features of the user's environment to trigger the appearance of virtual content. For example, a museum app might show a virtual curator when the user points their device at a painting, or a board game might place virtual pieces when the player points their device at a game board. In iOS 11.3 and later, you can add such features to your AR experience by enabling image detection in ARKit: Your app provides known 2D images, and ARKit tells you when and where those images are detected during an AR session.

@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "Tibet.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "inches",
+    "width" : 29.999438202247191
+  }
+}
